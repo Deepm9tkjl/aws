@@ -1,2 +1,2 @@
 FROM ubuntu 
-COPY . /user/local/appache2/htdocs/
+COPY . /usr/local/appache2/htdocs/
